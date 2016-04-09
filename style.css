@@ -15,6 +15,10 @@ p {
 	margin-top: 0; 
 	text-align: justify;
 	}
+
+h1 {
+	color: #524D6D;
+}
 h3 { 
 	font: italic normal 1.4em Helvetica, sans-serif;
 	letter-spacing: 1px; 
