@@ -203,3 +203,8 @@ footer a:link, footer a:visited {
 #left {
 float: left;
 }
+
+#about {
+float: left;
+width: 400px;
+}
