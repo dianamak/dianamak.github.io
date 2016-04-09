@@ -21,6 +21,10 @@ h1 {
 	font-size: 36px;
 	margin-bottom: 0px;
 }
+
+h2 {
+	margin-top: 10px;
+}
 h3 { 
 	font: italic normal 1.4em Helvetica, sans-serif;
 	letter-spacing: 1px; 
