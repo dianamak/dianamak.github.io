@@ -191,10 +191,10 @@ footer a:link, footer a:visited {
 }
 
 #me {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
-  margin-right: 30px;
+  margin-right: 100px;
   background-image: url(image/pic.jpg);
   background-size: cover;
   background-repeat: no-repeat;
