@@ -194,7 +194,7 @@ footer a:link, footer a:visited {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  margin-right: 30px;
+  margin-right: 10px;
   background-image: url(image/pic.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -202,5 +202,5 @@ footer a:link, footer a:visited {
 
 #left {
 float: left;
-position: relative;
+height: 100%
 }
